@@ -10,8 +10,8 @@ A responsive JS application to check the weather by searching a city/state name.
 <h2>Screenshots of the website</h2>
 <h4><a href="https://dreamy-crostata-c5c1fc.netlify.app/">Live Demo (click here)</a></h4>
 
-<img src="dubai-screenshot.png" width="80%">
-<img src="newyork-screenshot.png" width="80%">
+<img src="dubai-screenshot.png">
+<img src="newyork-screenshot.png">
 
 </div>
 
